@@ -1,5 +1,5 @@
 ### 👩🏻‍🚀 구민주 (Minjoo Kou) 👋
-
+<br>
 📍 Currently learning BE engineering
 
 <!--
@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<br>
+<br>
 
 ![minjoo-kou's github stats](https://github-readme-stats.vercel.app/api?username=minjoo-kou&show_icons=true&theme=radical)
 
